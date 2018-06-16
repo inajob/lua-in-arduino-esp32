@@ -3,6 +3,12 @@
 arduino-esp32環境でLuaを実行するデモです。
 platformioを使うことを前提にしています。
 
+## submodule更新
+
+```
+$ git submodule update --init --recursive
+```
+
 ## ビルド
 
 ```
